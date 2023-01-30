@@ -9,6 +9,7 @@ Thingiverse of this project:\
 ## Description ##
 
 The whole mount is designed in a modular way. There are parts in different lengths, so you can place your camera where ever you want. The pieces are joined together with a press fit. For this you will need a M3 screw with _at least_ 18mm length, as well as a M3 hex nut for every join you realize. The whole thing is to be joined to the Ender 3 by the two screws at the lower left, which hold the electronics case.\
+The pieces are designed very simple and should be printed ***easy and fast***.\
 The AnglerfishCam mount is designed for cams, which have a thread at the bottom side. Therefor I have designed some plates, with different hole sizes. In particular holes for 3mm, 4mm or 5mm bolts.\
 I invite you to design this part as you need it for your cam by yourself, or to let me know what could be done better to improve compatibility with different cams.<br></br>
 
@@ -16,7 +17,7 @@ I invite you to design this part as you need it for your cam by yourself, or to 
 ## Printing ##
 
 A list of my printing settings as well as the corresponding printing times can be found in the documentation folder. Note, that are just MY settings. I am pretty sure, a lot of you will find better settings.\
-I recommend printing the ```AC_Beam_20.STL``` at first two times, to ensure the fit is well working.\
+I recommend to at first print the ```AC_Beam_20.STL``` two times, to ensure the fit is working well.\
 If it doesn't work out, you can use the STEP files to easily adjust the fits to your needs.\
 
 For the sunk of the hex nut, there is ***maybe support needed***. If you are convinced, you will get it printed properly without supports, do so.<br></br>
