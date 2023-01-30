@@ -16,7 +16,7 @@ I invite you to design this part as you need it for your cam by yourself, or to 
 
 ## Printing ##
 
-A list of my printing settings as well as the corresponding printing times can be found in the documentation folder. Note, that are just MY settings. I am pretty sure, a lot of you will find better settings.\
+A list of my printing settings as well as the corresponding printing times can be found in the documentation folder. Note that this are just ***my*** settings. I am pretty sure, a lot of you will find better settings.\
 I recommend to at first print the ```AC_Beam_20.STL``` two times, to ensure the fit is working well.\
 If it doesn't work out, you can use the STEP files to easily adjust the fits to your needs.\
 
@@ -25,7 +25,8 @@ For the sunk of the hex nut, there is ***maybe support needed***. If you are con
 
 ## Joining ##
 
-The parts are designed for beeing used with a M3 hex nut (ISO 4032 or ISO 4033). For the other end I used a M3 head socket screw (ISO 4762) as I am convinced, once adjusted, you will not change the orientation of the cam very often. But as long the screw you use is M3 and has a thread length of at least 18mm (or more) it should work out fine.<br></br>
+The parts are designed for being used with a M3 hex nut (ISO 4032 or ISO 4033). For the other end I used a M3 socket-head screw (ISO 4762) as I am convinced, once adjusted, you will not change the orientation of the cam very often. But as long the screw you use is M3 and has a thread length of at least 18mm (or more) it should work out fine. To use some kind of thumbscrew could also be useful, I guess.\
+Also, please mind that the screw will stick over the edge of the beam parts if the thread is longer then 20mm.<br></br>
 
 
 ## Donations ##
