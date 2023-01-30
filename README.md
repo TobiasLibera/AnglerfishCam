@@ -5,6 +5,9 @@ An easy to print cam mount for the Creality Ender 3.<br></br>
 Thingiverse of this project:\
 [Printing Data](https://www.thingiverse.com/thing:5822809)<br></br>
 
+![](https://github.com/TobiasLibera/AnglerfishCam/blob/main/Pics/AC_Pic_00.jpg?raw=true)
+<br></br>
+
 
 ## Description ##
 
